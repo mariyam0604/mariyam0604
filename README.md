@@ -84,13 +84,6 @@ Guided applicants through the registration process
 Helped resolve portal and workflow queries  
 
 
-📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariyam0604&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariyam0604&layout=compact)
-
-
 📫 Connect With Me
 
 Email: tanveermariyam414@email.com  
